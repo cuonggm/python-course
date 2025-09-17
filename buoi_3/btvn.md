@@ -59,10 +59,10 @@ Người dùng nhập vào 1 số tự nhiên > 0. Hãy in ra kim tự tháp s�
 
 Tạo game xổ số:
 
-- Khi chạy chương trình hãy tạo ngầm 1 con số đích ngẫu nhiên từ 1 tới 100.
+- Khi chạy chương trình hãy tạo ngầm 1 con số đích ngẫu nhiên từ 1 tới 100 và không hiển thị ra màn hình.
 - Người dùng có 7 lần đoán số, mỗi lần yêu cầu người dùng nhập thì hiển thị ra số lần đoán còn lại.
 - Sau khi người dùng đoán thì hiển thị ra gợi ý cho người dùng: Hãy đoán cao hơn/Hãy đoán thấp hơn.
 - Sau khi đoán trúng thì hãy hiển thị: Chúc mừng bạn đã đoán trúng sau: X lần.
-- Nếu người dùng đoán cả 7 lần sai thì hiển thị: Chúc bạn may mắn lần sau.
+- Nếu người dùng đoán cả 7 lần sai thì hiển thị: Chúc bạn may mắn lần sau. Con số đích là: X.
 - Lưu ý: sau khi hoàn thành 1 lượt chơi thì chương trình không dừng mà tiếp tục tạo ra 1 con số đích ngẫu nhiên mới và chơi lại.
 - Chỉ khi nào người dùng nhập vào ký tự 'q' thì mới thoát chương trình.
