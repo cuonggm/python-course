@@ -1,6 +1,6 @@
 # Bài tập về nhà buổi 3 - Điều kiện & vòng lặp
 
-## Bài 1:
+## Bài 1: Xếp loại học sinh
 
 - Chỉ sử dụng cú pháp if/elif/else để viết chương trình nhập số điểm của sinh viên, in ra màn hình xếp loại của sinh viên theo quy tắc sau:
 - - 9-10: Xuất sắc
@@ -10,12 +10,12 @@
 - - Dưới 5: Yếu
 - - Ngoài khoảng 0-10: Điểm không hợp lệ
 
-## Bài 2:
+## Bài 2: Tìm số nguyên tố
 
 - Người dùng nhập vào 1 số tự nhiên > 0
 - Liệt kê tất cả các số "nguyên tố" nằm trong khoảng từ 1 đến số đó.
 
-## Bài 3:
+## Bài 3: Máy tính đơn giản
 
 - Cho người dùng nhập vào 3 thông tin:
 - - Phép toán: +, -, \*, /
@@ -24,7 +24,7 @@
 - Sau khi in ra kết quả, chương trình không dừng lại, tiếp tục sử dụng vòng lặp while để người dùng nhập phép toán tiếp theo.
 - Khi người dùng nhập phép toán là "q" thì chương trình dừng lại (thoát khỏi vòng lặp)
 
-## Bài 4:
+## Bài 4: Vẽ kim tự tháp
 
 Người dùng nhập vào 1 số tự nhiên > 0. Hãy in ra kim tự tháp số như sau:
 
@@ -55,9 +55,7 @@ Người dùng nhập vào 1 số tự nhiên > 0. Hãy in ra kim tự tháp s�
 123454321
 ```
 
-## Bài 5:
-
-Tạo game xổ số:
+## Bài 5: Game đoán số
 
 - Khi chạy chương trình hãy tạo ngầm 1 con số đích ngẫu nhiên từ 1 tới 100 và không hiển thị ra màn hình.
 - Người dùng có 7 lần đoán số, mỗi lần yêu cầu người dùng nhập thì hiển thị ra số lần đoán còn lại.
