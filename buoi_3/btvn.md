@@ -17,10 +17,9 @@
 
 ## Bài 3:
 
-Cho người dùng nhập vào 3 thông tin:
-
-- Phép toán: +, -, \*, /
-- 2 số thực
+- Cho người dùng nhập vào 3 thông tin:
+- - Phép toán: +, -, \*, /
+- - 2 số thực
 - In ra màn hình kết quả của phép toán trên 2 số đó.
 - Sau khi in ra kết quả, chương trình không dừng lại, tiếp tục sử dụng vòng lặp while để người dùng nhập phép toán tiếp theo.
 - Khi người dùng nhập phép toán là "q" thì chương trình dừng lại (thoát khỏi vòng lặp)
